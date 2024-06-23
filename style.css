@@ -228,7 +228,7 @@ small {
 }
 
 footer {
-    padding: 100px;
+    padding: 50px;
     background-color: var(--DarkBlue);
     display: flex;
     justify-content: space-between;
